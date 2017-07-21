@@ -1,5 +1,5 @@
 # Aprendendo GIT 
 
-![Logo Git] (https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+![Logo Git] (./git-logo.png)
 
 Este repositório é para a aprendizagem e prática do GIT.
